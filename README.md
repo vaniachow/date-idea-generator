@@ -11,9 +11,9 @@ To run the program, use the following command:
 python date_planner.py [-h] [-a ACTIVE] [-f FANCY] [-b] [-r REQUIRED]
 
 ### Here are the available options:
--h, --help: show the help message and exit
--a ACTIVE: set the strenuous level for the activity (1-3)
--f FANCY: set the fanciness level for the food and dessert (1-5)
--b: set whether the date should involve biking
--r REQUIRED: set the required component (activity, food, or dessert)
+-h, --help: show the help message and exit <br>
+-a ACTIVE: set the strenuous level for the activity (1-3) <br>
+-f FANCY: set the fanciness level for the food and dessert (1-5) <br>
+-b: set whether the date should involve biking <br>
+-r REQUIRED: set the required component (activity, food, or dessert) <br>
 The program will generate a random date that satisfies your preferences and requirements. If no valid date can be generated with the given constraints, the program will raise an exception.

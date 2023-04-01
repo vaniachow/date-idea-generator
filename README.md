@@ -10,7 +10,7 @@ This is a Python command-line application that helps you plan your next date nig
 To run the program, use the following command:
 python date_planner.py [-h] [-a ACTIVE] [-f FANCY] [-b] [-r REQUIRED]
 
-###Here are the available options:
+### Here are the available options:
 -h, --help: show the help message and exit
 -a ACTIVE: set the strenuous level for the activity (1-3)
 -f FANCY: set the fanciness level for the food and dessert (1-5)

@@ -1,12 +1,12 @@
-## Date Night Planner
+# Date Night Planner
 This is a Python command-line application that helps you plan your next date night. It generates a random date that satisfies your preferences and requirements for activity, food, and dessert.
 
-# Installation
+## Installation
 Clone the repository.
 Install the required packages: numpy.
 Create an ideas.json file in the root directory. This file should contain a list of activities, foods, and desserts. The attached json file is an example of what it could look like. 
 
-# Usage
+## Usage
 To run the program, use the following command:
 python date_planner.py [-h] [-a ACTIVE] [-f FANCY] [-b] [-r REQUIRED]
 

@@ -1,0 +1,203 @@
+{
+    "activities": [
+      {
+        "name": "Reading",
+        "attributes": {
+          "active": 1
+        }},
+      {
+        "name": "Movie",
+        "attributes": {
+          "active": 1
+        }},
+      {
+        "name": "Bowling",
+        "attributes": {
+          "active": 2
+        }},
+      {
+        "name": "Photo Album Date",
+        "attributes": {
+          "active": 1
+        }},
+      {
+        "name": "Karaoke",
+        "attributes": {
+          "active": 2
+        }},
+      {"name": "Skiing",
+        "attributes": {
+          "active": 3}},
+      {
+        "name": "Rock Climbing",
+        "attributes": {
+          "active": 3
+        }}
+    ],
+
+  "foods": [
+    {"name":  "Jack in the Box",
+    "attributes": {
+      "fancy": 1,
+      "biking": false
+    }},
+    {"name":  "In-n-Out",
+    "attributes": {
+      "fancy": 1,
+      "biking": false
+    }},
+    {"name":  "Burger King",
+    "attributes": {
+      "fancy": 1,
+      "biking": false
+    }},
+    {"name":  "L&L",
+    "attributes": {
+      "fancy": 1,
+      "biking": true
+    }},
+    {"name":  "McDonald's",
+    "attributes": {
+      "fancy": 1,
+      "biking": false
+    }},
+    {"name":  "Ramen Nagi",
+    "attributes": {
+      "fancy": 2,
+      "biking": true
+    }},
+    {"name":  "Taro San",
+    "attributes": {
+      "fancy": 2,
+      "biking": true
+    }},
+    {"name":  "Zareen's",
+    "attributes": {
+      "fancy": 2,
+      "biking": true
+    }},
+    {"name":  "Yayoi",
+    "attributes": {
+      "fancy": 2,
+      "biking": true
+    }},
+    {"name":  "Oren's Hummus",
+    "attributes": {
+      "fancy": 2,
+      "biking": true
+    }},
+    {"name":  "Terun",
+    "attributes": {
+      "fancy": 3,
+      "biking": true
+    }},
+    {"name":  "Sweet Maple",
+    "attributes": {
+      "fancy": 3,
+      "biking": true
+    }},
+    {"name":  "Pizzeria Delfina",
+    "attributes": {
+      "fancy": 3,
+      "biking": false
+    }},
+    {"name":  "Gen's KBBQ",
+    "attributes": {
+      "fancy": 4,
+      "biking": false
+    }},
+    {"name":  "Farmhouse Kitchen Thai Cuisine",
+    "attributes": {
+      "fancy": 4,
+      "biking": false
+    }},
+    {"name":  "So Dong Gong Tofu House",
+    "attributes": {
+      "fancy": 4,
+      "biking": true
+    }},
+    {"name":  "HE&C Tea+Pot",
+    "attributes": {
+      "fancy": 4,
+      "biking": true
+    }},
+    {"name":  "Teleferic",
+    "attributes": {
+      "fancy": 4,
+      "biking": true
+    }},
+    {"name":  "Nobu",
+    "attributes": {
+      "fancy": 5,
+      "biking": true
+    }},
+    {"name":  "Vina Enoteca",
+    "attributes": {
+      "fancy": 5,
+      "biking": false
+    }}
+  ],
+
+  "desserts": [
+    {"name":  "Somi Somi",
+    "attributes": {
+      "fancy": 1,
+      "biking": true
+    }},
+    {"name":  "Starbucks",
+    "attributes": {
+      "fancy": 1,
+      "biking": true
+    }},
+    {"name":  "Decadence",
+    "attributes": {
+      "fancy": 1,
+      "biking": true
+    }},
+    {"name":  "McDonald's",
+    "attributes": {
+      "fancy": 1,
+      "biking": false
+    }},
+    {"name":  "Salt & Straw",
+    "attributes": {
+      "fancy": 2,
+      "biking": true
+    }},
+    {"name":  "Tong Sui",
+    "attributes": {
+      "fancy": 2,
+      "biking": true
+    }},
+    {"name":  "Antoine's Cookie Shop",
+    "attributes": {
+      "fancy": 2,
+      "biking": true
+    }},
+    {"name":  "Haagen Dazs",
+    "attributes": {
+      "fancy": 2,
+      "biking": false
+    }},
+    {"name":  "Rabbit Rabbit Ice Cream",
+    "attributes": {
+      "fancy": 2,
+      "biking": true
+    }},
+    {"name":  "Batik and Baker",
+    "attributes": {
+      "fancy": 3,
+      "biking": false
+    }},
+    {"name":  "Scoop Microcreamery",
+    "attributes": {
+      "fancy": 3,
+      "biking": true
+    }},
+    {"name":  "Pressed",
+    "attributes": {
+      "fancy": 3,
+      "biking": true
+    }}
+  ]
+}
